@@ -1,0 +1,20 @@
+.sidebar{
+	background-color: #ffd3e2;
+}
+
+a:hover{
+	color:#000000 ; 
+}
+	
+.descubre {
+	color:#000000 ;
+	background-color:#ffd3e2;
+	width: 12rem;
+	
+}
+.project-text-inner{
+	display: flex !important;
+  	align-items: center;
+ 	justify-content: center;
+ 	flex-direction: column;
+}
